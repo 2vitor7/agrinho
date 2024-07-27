@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; 
+    color: #004d40; 
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #00796b; 
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+nav {
+    background-color: #004d40; 
+    color: white;
+    padding: 0.5em;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 0 1em;
+    text-decoration: none;
+}
+main {
+    padding: 2em;
+}
+section {
+    margin-bottom: 2em;
+}
+footer {
+    background-color: #004d40; 
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+.imagem-fazendeiro {
+    max-width: 50%;
+    height: 400px;
+    display: block;
+    margin: 1em 0;
+}
